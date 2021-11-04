@@ -1,0 +1,10 @@
+{
+  "name": "Lilly Song",
+  "userImage": "https://placeimg.com/200/200/arch",
+  "postImage": "https://placeimg.com/672/472/arch",
+  "likes": 10,
+  "date": "April 31",
+  "liked": false,
+  "content": "더보기로 요청한 게시물11입니다.",
+  "filter": "lilly"
+}
